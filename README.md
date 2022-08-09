@@ -4,12 +4,15 @@ This repository is basic code for PX4 drone mission. Feel free to correct anythi
 -----------------------------------------------------------------------------------------------------
 Necessary downloads:
 
-PX4: https://docs.px4.io/main/en/
+-Ubuntu or Windows operating system.
 
-MavLink: https://mavlink.io/en/
+-PX4: https://docs.px4.io/main/en/
 
-QGroundControl: http://qgroundcontrol.com/4
+-MavLink: https://mavlink.io/en/
 
-MAVSDK: https://mavsdk.mavlink.io/main/en/index.html
+-QGroundControl: http://qgroundcontrol.com/4
 
-Python 2 and a virtual simulator such as Gazebo.
+-MAVSDK: https://mavsdk.mavlink.io/main/en/index.html
+
+-Python 2 and a virtual simulator such as Gazebo.
+
